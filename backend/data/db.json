@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "1768062282572",
+      "name": "Ivan",
+      "surname": "Ivanov",
+      "dateOfBirth": "1990-12-22",
+      "sport": "Football",
+      "tShirtSize": "M",
+      "createdAt": "2026-01-10T16:24:42.572Z",
+      "updatedAt": "2026-01-11T15:28:26.098Z",
+      "tshirtSize": "M"
+    },
+    {
+      "id": "1768145777185",
+      "name": "John",
+      "surname": "Doe",
+      "dateOfBirth": "2000-01-01",
+      "sport": "Basketball",
+      "tShirtSize": "XL",
+      "createdAt": "2026-01-11T15:36:17.185Z",
+      "updatedAt": "2026-01-11T15:36:17.185Z"
+    }
+  ]
+}
